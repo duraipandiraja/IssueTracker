@@ -31,6 +31,8 @@ public void i_Enter_valid_and(String arg1, String arg2) throws Throwable {
 	System.out.println("duraipandiraja");
 	driver.findElement(By.id("btnLogin")).click();
 	driver.findElement(By.id("btnLogin")).click();
+	driver.findElement(By.id("btnLogin")).click();
+	driver.findElement(By.id("btnLogin")).click();
     
 }
 
